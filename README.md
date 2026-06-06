@@ -6,14 +6,14 @@ Public CDN assets for the WoodsPortal HubSpot module (**Strategy B — Hybrid CD
 
 | | |
 |---|---|
-| Latest tag | `v0.0.1-dev.8` |
-| jsDelivr base | https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.8/dist/cdn |
+| Latest tag | `v0.0.1-dev.9` |
+| jsDelivr base | https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.9/dist/cdn |
 | Source repo | [digitalwoods.io-woodsportal-client-frontend](https://github.com/Digital-Woods/digitalwoods.io-woodsportal-client-frontend) (private) |
 
-## jsDelivr URLs (tag `v0.0.1-dev.8`)
+## jsDelivr URLs (tag `v0.0.1-dev.9`)
 
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.8/dist/cdn/vendor.v0.0.1-dev.8.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.8/dist/cdn/app.v0.0.1-dev.8.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.8/dist/cdn/app.v0.0.1-dev.8.css`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.9/dist/cdn/vendor.v0.0.1-dev.9.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.9/dist/cdn/app.v0.0.1-dev.9.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.9/dist/cdn/app.v0.0.1-dev.9.css`
 
-Published at 2026-06-06T16:28:37.429Z.
+Published at 2026-06-06T16:29:30.025Z.
