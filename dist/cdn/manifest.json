@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T14:04:22.078Z",
+  "generatedAt": "2026-06-06T14:13:07.199Z",
   "buildId": "v0.0.1-dev.5",
   "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.5/dist/cdn",
   "publishMode": "jsdelivr",
@@ -16,8 +16,8 @@
       "name": "app",
       "file": "app.v0.0.1-dev.5.js",
       "order": 2,
-      "rawBytes": 1940099,
-      "gzipBytes": 591358,
+      "rawBytes": 1940243,
+      "gzipBytes": 591384,
       "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@v0.0.1-dev.5/dist/cdn/app.v0.0.1-dev.5.js"
     }
   ],
