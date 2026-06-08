@@ -6,14 +6,14 @@ Public CDN assets for the WoodsPortal HubSpot module (**Strategy B — Hybrid CD
 
 | | |
 |---|---|
-| Latest tag | `v0.0.1-dev.manab.3` |
+| Latest tag | `v0.0.1-dev.manab.4` |
 | jsDelivr base | https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn (@main) |
 | Source repo | [digitalwoods.io-woodsportal-client-frontend](https://github.com/Digital-Woods/digitalwoods.io-woodsportal-client-frontend) (private) |
 
-## jsDelivr URLs (build `v0.0.1-dev.manab.3` on `main`)
+## jsDelivr URLs (build `v0.0.1-dev.manab.4` on `main`)
 
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.v0.0.1-dev.manab.3.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.v0.0.1-dev.manab.3.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.v0.0.1-dev.manab.3.css`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.v0.0.1-dev.manab.4.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.v0.0.1-dev.manab.4.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.v0.0.1-dev.manab.4.css`
 
-Published at 2026-06-08T07:55:03.877Z.
+Published at 2026-06-08T08:12:24.727Z.
