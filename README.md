@@ -6,14 +6,14 @@ Public CDN assets for the WoodsPortal HubSpot module (**Strategy B — Hybrid CD
 
 | | |
 |---|---|
-| Latest tag | `2.0.521` |
+| Latest tag | `2.0.522` |
 | jsDelivr base | https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn (@main) |
 | Source repo | [digitalwoods.io-woodsportal-client-frontend](https://github.com/Digital-Woods/digitalwoods.io-woodsportal-client-frontend) (private) |
 
-## jsDelivr URLs (build `2.0.521` on `main`)
+## jsDelivr URLs (build `2.0.522` on `main`)
 
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.2.0.521.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.521.js`
-- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.521.css`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.2.0.522.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.522.js`
+- `https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.522.css`
 
-Published at 2026-06-11T05:40:23.289Z.
+Published at 2026-06-11T05:41:45.731Z.
