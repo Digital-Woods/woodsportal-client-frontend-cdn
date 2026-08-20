@@ -1,171 +1,171 @@
 {
-  "generatedAt": "2026-08-20T07:52:43.235Z",
-  "buildId": "2.0.698",
+  "generatedAt": "2026-08-20T07:57:35.438Z",
+  "buildId": "2.0.699",
   "baseUrl": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn",
   "publishMode": "jsdelivr",
   "scripts": [
     {
       "name": "vendor",
-      "file": "vendor.2.0.698.js",
+      "file": "vendor.2.0.699.js",
       "order": 1,
       "preload": true,
       "rawBytes": 194960,
       "gzipBytes": 61100,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.2.0.698.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/vendor.2.0.699.js"
     },
     {
       "name": "app",
-      "file": "app.2.0.698.js",
+      "file": "app.2.0.699.js",
       "order": 2,
       "preload": true,
       "rawBytes": 1773774,
-      "gzipBytes": 544887,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.698.js"
+      "gzipBytes": 544892,
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.699.js"
     },
     {
-      "name": "ActivityListPage.2.0.698.-C2rA2-A.js",
-      "file": "chunks/ActivityListPage.2.0.698.-C2rA2-A.js",
+      "name": "ActivityListPage.2.0.699.BIjP6ZiN.js",
+      "file": "chunks/ActivityListPage.2.0.699.BIjP6ZiN.js",
       "order": 99,
       "preload": false,
       "rawBytes": 16805,
       "gzipBytes": 5835,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/ActivityListPage.2.0.698.-C2rA2-A.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/ActivityListPage.2.0.699.BIjP6ZiN.js"
     },
     {
-      "name": "csv-table-viewer.2.0.698.DJuqx6B4.js",
-      "file": "chunks/csv-table-viewer.2.0.698.DJuqx6B4.js",
+      "name": "csv-table-viewer.2.0.699.C2w03lVO.js",
+      "file": "chunks/csv-table-viewer.2.0.699.C2w03lVO.js",
       "order": 99,
       "preload": false,
       "rawBytes": 3610,
       "gzipBytes": 1547,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/csv-table-viewer.2.0.698.DJuqx6B4.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/csv-table-viewer.2.0.699.C2w03lVO.js"
     },
     {
-      "name": "EditorFieldDialog.2.0.698.C4mg7D4K.js",
-      "file": "chunks/EditorFieldDialog.2.0.698.C4mg7D4K.js",
+      "name": "EditorFieldDialog.2.0.699.DQWUvHLS.js",
+      "file": "chunks/EditorFieldDialog.2.0.699.DQWUvHLS.js",
       "order": 99,
       "preload": false,
       "rawBytes": 2144,
       "gzipBytes": 1025,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/EditorFieldDialog.2.0.698.C4mg7D4K.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/EditorFieldDialog.2.0.699.DQWUvHLS.js"
     },
     {
-      "name": "Emails.2.0.698.CV6vKq6c.js",
-      "file": "chunks/Emails.2.0.698.CV6vKq6c.js",
+      "name": "Emails.2.0.699.Ce1pGei5.js",
+      "file": "chunks/Emails.2.0.699.Ce1pGei5.js",
       "order": 99,
       "preload": false,
       "rawBytes": 3693,
-      "gzipBytes": 1416,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/Emails.2.0.698.CV6vKq6c.js"
+      "gzipBytes": 1418,
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/Emails.2.0.699.Ce1pGei5.js"
     },
     {
-      "name": "index.2.0.698.BFYkivlp.js",
-      "file": "chunks/index.2.0.698.BFYkivlp.js",
+      "name": "index.2.0.699.BXXZCGOr.js",
+      "file": "chunks/index.2.0.699.BXXZCGOr.js",
       "order": 99,
       "preload": false,
       "rawBytes": 37073,
       "gzipBytes": 11403,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/index.2.0.698.BFYkivlp.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/index.2.0.699.BXXZCGOr.js"
     },
     {
-      "name": "index.2.0.698.D7GGxlgx.js",
-      "file": "chunks/index.2.0.698.D7GGxlgx.js",
+      "name": "index.2.0.699.CzvML3I8.js",
+      "file": "chunks/index.2.0.699.CzvML3I8.js",
       "order": 99,
       "preload": false,
       "rawBytes": 870,
-      "gzipBytes": 452,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/index.2.0.698.D7GGxlgx.js"
+      "gzipBytes": 451,
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/index.2.0.699.CzvML3I8.js"
     },
     {
-      "name": "mock-http.2.0.698.suRBBg68.js",
-      "file": "chunks/mock-http.2.0.698.suRBBg68.js",
+      "name": "mock-http.2.0.699.BdhgZWRG.js",
+      "file": "chunks/mock-http.2.0.699.BdhgZWRG.js",
       "order": 99,
       "preload": false,
       "rawBytes": 15490,
       "gzipBytes": 4379,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/mock-http.2.0.698.suRBBg68.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/mock-http.2.0.699.BdhgZWRG.js"
     },
     {
-      "name": "Notes.2.0.698.Cq6EjYlt.js",
-      "file": "chunks/Notes.2.0.698.Cq6EjYlt.js",
+      "name": "Notes.2.0.699.DB2rUjpz.js",
+      "file": "chunks/Notes.2.0.699.DB2rUjpz.js",
       "order": 99,
       "preload": false,
       "rawBytes": 2067,
-      "gzipBytes": 938,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/Notes.2.0.698.Cq6EjYlt.js"
+      "gzipBytes": 939,
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/Notes.2.0.699.DB2rUjpz.js"
     },
     {
-      "name": "override.style.2.0.698.l0sNRNKZ.js",
-      "file": "chunks/override.style.2.0.698.l0sNRNKZ.js",
+      "name": "override.style.2.0.699.l0sNRNKZ.js",
+      "file": "chunks/override.style.2.0.699.l0sNRNKZ.js",
       "order": 99,
       "preload": false,
       "rawBytes": 1,
       "gzipBytes": 21,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/override.style.2.0.698.l0sNRNKZ.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/override.style.2.0.699.l0sNRNKZ.js"
     },
     {
-      "name": "package.2.0.698.nuNsf972.js",
-      "file": "chunks/package.2.0.698.nuNsf972.js",
+      "name": "package.2.0.699.nuNsf972.js",
+      "file": "chunks/package.2.0.699.nuNsf972.js",
       "order": 99,
       "preload": false,
       "rawBytes": 4663,
       "gzipBytes": 1763,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/package.2.0.698.nuNsf972.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/package.2.0.699.nuNsf972.js"
     },
     {
-      "name": "pdf-canvas-viewer.2.0.698.D-inAl2c.js",
-      "file": "chunks/pdf-canvas-viewer.2.0.698.D-inAl2c.js",
+      "name": "pdf-canvas-viewer.2.0.699.Cs96hdLp.js",
+      "file": "chunks/pdf-canvas-viewer.2.0.699.Cs96hdLp.js",
       "order": 99,
       "preload": false,
       "rawBytes": 365400,
       "gzipBytes": 108074,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/pdf-canvas-viewer.2.0.698.D-inAl2c.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/pdf-canvas-viewer.2.0.699.Cs96hdLp.js"
     },
     {
-      "name": "preview-emails.2.0.698.D0tPHkPB.js",
-      "file": "chunks/preview-emails.2.0.698.D0tPHkPB.js",
+      "name": "preview-emails.2.0.699.D0tPHkPB.js",
+      "file": "chunks/preview-emails.2.0.699.D0tPHkPB.js",
       "order": 99,
       "preload": false,
       "rawBytes": 1244,
       "gzipBytes": 536,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-emails.2.0.698.D0tPHkPB.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-emails.2.0.699.D0tPHkPB.js"
     },
     {
-      "name": "preview-me.2.0.698.D7AZPq2j.js",
-      "file": "chunks/preview-me.2.0.698.D7AZPq2j.js",
+      "name": "preview-me.2.0.699.D7AZPq2j.js",
+      "file": "chunks/preview-me.2.0.699.D7AZPq2j.js",
       "order": 99,
       "preload": false,
       "rawBytes": 1004,
       "gzipBytes": 384,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-me.2.0.698.D7AZPq2j.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-me.2.0.699.D7AZPq2j.js"
     },
     {
-      "name": "preview-notes.2.0.698.Cvc6WLmL.js",
-      "file": "chunks/preview-notes.2.0.698.Cvc6WLmL.js",
+      "name": "preview-notes.2.0.699.Cvc6WLmL.js",
+      "file": "chunks/preview-notes.2.0.699.Cvc6WLmL.js",
       "order": 99,
       "preload": false,
       "rawBytes": 1286,
       "gzipBytes": 583,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-notes.2.0.698.Cvc6WLmL.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-notes.2.0.699.Cvc6WLmL.js"
     },
     {
-      "name": "preview-object-form.2.0.698.Dxtck-iz.js",
-      "file": "chunks/preview-object-form.2.0.698.Dxtck-iz.js",
+      "name": "preview-object-form.2.0.699.Dxtck-iz.js",
+      "file": "chunks/preview-object-form.2.0.699.Dxtck-iz.js",
       "order": 99,
       "preload": false,
       "rawBytes": 225,
       "gzipBytes": 149,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-object-form.2.0.698.Dxtck-iz.js"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/chunks/preview-object-form.2.0.699.Dxtck-iz.js"
     }
   ],
   "styles": [
     {
       "name": "app",
-      "file": "app.2.0.698.css",
+      "file": "app.2.0.699.css",
       "order": 1,
       "rawBytes": 221964,
       "gzipBytes": 39327,
-      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.698.css"
+      "url": "https://cdn.jsdelivr.net/gh/Digital-Woods/woodsportal-client-frontend-cdn@main/dist/cdn/app.2.0.699.css"
     }
   ]
 }
